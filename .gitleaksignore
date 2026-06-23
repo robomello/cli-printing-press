@@ -4,3 +4,5 @@
 6d9ab664b06e1a1c24c0014af14cae4bd40cb0f1:internal/artifacts/secrets_test.go:stripe-access-token:12
 6d9ab664b06e1a1c24c0014af14cae4bd40cb0f1:internal/artifacts/secrets_test.go:stripe-access-token:32
 c74dcd458c94640c6688f9f4fc5fb15a8af5bb2f:docs/plans/2026-04-27-001-fix-printing-press-p1-machine-fixes-from-cal-com-retro-plan.md:stripe-access-token:238
+# self-inflicted: the example token was briefly embedded in this file's comment (commit 644faf6), removed in f70e0ba
+644faf6fe749467bb19cc21ded4c2b0035ffe49f:.gitleaksignore:stripe-access-token:2
