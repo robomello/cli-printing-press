@@ -1,5 +1,5 @@
 # False positives — reviewed 2026-06-23.
-# All 3 are placeholder/example Stripe keys (sk_live_1234567890 etc.) in a
+# All 3 are obvious placeholder/example Stripe keys (non-random digit sequences) in a
 # test fixture and a planning doc, not real credentials. Allowlisted for OctoX/gitleaks.
 6d9ab664b06e1a1c24c0014af14cae4bd40cb0f1:internal/artifacts/secrets_test.go:stripe-access-token:12
 6d9ab664b06e1a1c24c0014af14cae4bd40cb0f1:internal/artifacts/secrets_test.go:stripe-access-token:32
